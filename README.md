@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MIT '26, MechE w/ Robotics Concentration
 ----------------------------------------
 
-I'm a Mechanical Engineer with a background in robotic actuation and embedded systems. My experience spans from academic research to hands-on prototyping, with a focus on autonomous systems and real-time control.
+I'm a Mechanical Engineer with a background in robotic actuation and embedded systems. My experience spans from academic research to hands-on prototyping, with a focus on autonomous systems.
 
 * 🌍  I'm based in Cambridge, MA
 * 🖥️  See my portfolio at [LinkedIn Meche Portfolio](http://www.linkedin.com/in/jackhammermit/details/featured/1732508200297/single-media-viewer/?profileId=ACoAADbUxCYB37M5isH8t3Hq-GIGFroW64OSHAE)
